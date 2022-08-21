@@ -1,0 +1,5 @@
+Person1: Hi
+Person2: Hey!
+Person1: Do u think you can help me with a project?
+Person2: Sorry I'm busy
+Person1: Bruh rips
